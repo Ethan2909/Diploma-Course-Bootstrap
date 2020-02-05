@@ -1,0 +1,35 @@
+
+body {
+    
+    margin: 2px;
+    text-align: left;
+    
+}
+
+
+
+.jumbotron h1 {
+    
+    font-size:500%;
+    position: relative;
+    left: 20%;
+    text-align:left;
+}
+
+.jumbotron p {
+    
+    position: relative;
+    left: 20%;
+    text-align:left; 
+}
+
+.jumbotron button {    
+    
+    position:relative;
+    right:27%;
+}
+
+.container div {
+    
+        padding-right: 25px;
+}
